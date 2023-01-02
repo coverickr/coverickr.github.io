@@ -1,2 +1,2 @@
 # coverickr.github.io
-github pages repo
+github pages repo for my personal blog
